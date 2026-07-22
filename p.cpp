@@ -4,5 +4,5 @@ int main()
 {
     cout<<" Word";
     cout<<"Hello xyz1111";
-    return 1;
+    return 0;
 }
