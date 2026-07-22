@@ -5,5 +5,5 @@ int main()
     cout<<" Word";
     cout<<"Hello";
     cout<<" World abcdefghijklmnopqrstuvwxyz";
-    return 1;
+    return 0;
 }
