@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-    cout<<" Word";
+    cout<<" Word  a  ";
     return 1;
 }
